@@ -1,0 +1,9 @@
+<Relativelayout
+  android:layout_weight="match_content"
+  android:layout_weight="wrap_content"
+>
+<TextView 
+android:layout_weight="wrap_content"
+android:layout_weight="wrap_content"
+android:text="Sherifdeen"
+android:textSize="40sp"/>
