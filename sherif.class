@@ -1,0 +1,6 @@
+public class sherif{
+    public stativ void main (String args []) {
+        System.out.println("My name is Sherifdeen");
+        
+    }
+}
